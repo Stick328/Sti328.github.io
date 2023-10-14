@@ -152,7 +152,7 @@ flex-direction: column;
 }
 
 .overlay img {
-    width: 100%;
+    width: 350px;
     height: 300px;
     border-radius: 5px;
 }
